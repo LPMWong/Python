@@ -1,4 +1,4 @@
-# Selenium_Python_Webdriver
+# Selenium_Python_Webdriver (Andamento)
 Projeto para pesquisar vagas de trabalho (riovagas.com), localizar de acordo com a condição e enviar currículo de forma automática.
 
 
