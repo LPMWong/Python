@@ -5,6 +5,7 @@
 
 <p> Upload files to improve my knowledge of the python language and share them with everyone. </p>
 <p></p>
-<h6 align="right"><img alt="GitHub followers" src="https://img.shields.io/github/followers/LPMWong?label=LPMWong&style=social"> 
+<h6>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/LPMWong?label=LPMWong&style=social"> 
 <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/selenium">
 
