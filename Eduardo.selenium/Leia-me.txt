@@ -1,0 +1,20 @@
+Requisitos/ Bilbliotecas utilizadas: 
+
+*Python
+*Comandos para serem executados no powershell ou Prompt
+pip install selenium
+pip install time
+pip install os
+pip install pandas
+pip install openpyx1
+
+
+*Firefox last version >> https://www.mozilla.org
+-Navegador utilizado pelo Selenium
+
+*Geckodriver >> https://github.com/mozilla/geckodriver/releases
+- Inserir o arquivo na raiz da unidade C:
+
+
+
+>>Programa emitirá um arquivo csv nomeado como "Eduardo1".
